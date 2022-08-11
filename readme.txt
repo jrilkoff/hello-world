@@ -1,2 +1,3 @@
 hello there
-thats right
+thats right!
+bloody ridiculous
